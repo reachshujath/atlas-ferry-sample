@@ -21,3 +21,7 @@ The script creates a new directory named `atlas-ferry-two-tile`. Open the follow
 Atlas Ferry is an offline browser utility for transferring metadata between compatible external Tiled tilesets. The full utility is available on [itch.io](https://reachshujath.itch.io/atlas-ferry). This repository contains a free worked example. If you face this problem in your own game, the [issue tracker](https://github.com/reachshujath/atlas-ferry-sample/issues) is open for a short description of the file format and what you had to rebuild. Please use a synthetic example if you include files.
 
 You may use and adapt the fixture generator and its outputs for personal and commercial game development, testing and teaching. AI assisted with the code and documentation. This project is independent of Tiled.
+
+## Free tileset for game projects
+
+[Canal Works](canal-works/) includes an original 32-pixel canal terrain set, eight quayside props and an editable Tiled map. [Download the complete kit](https://raw.githubusercontent.com/reachshujath/atlas-ferry-sample/main/canal-works/Canal-Works-1.0.zip).
